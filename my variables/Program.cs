@@ -10,6 +10,7 @@ namespace my_variables
     {
         static void Main(string[] args)
         {
+            //this is my first programe
             Console.WriteLine("hello world");
             Console.ReadKey();
 
